@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<translation>
+  <item id="ok" translation="OK" />
+  <item id="cancel" translation="Cancel" />
+  <item id="save" translation="Save" />
+  <item id="next" translation="Next" />
+  <item id="mixer_save_as_link" translation="Save as Link" />
+  <item id="mixer_save_changes" translation="Save Changes" />
+  <item id="mixer_create_yours" translation="Create Yours" />
+  <item id="mixer_export_to_file" translation="Export to File" />
+  <item id="mixer_loading" translation="Loading..." />
+  <item id="save_link_title_new" translation="Save your composition as a link" />
+  <item id="save_link_title_save_changes" translation="Save changes to your composition" />
+  <item id="save_link_composition" translation="Composition" />
+  <item id="save_link_name" translation="Name" />
+  <item id="save_link_author" translation="Author" />
+  <item id="save_link_user" translation="Signed in User" />
+  <item id="save_link_anon" translation="Anonymous" />
+  <item id="save_link_captcha" translation="Spam Protection" />
+  <item id="save_link_name_info" translation="Only letters, numbers, &quot;-&quot; and &quot;_&quot; are allowed" />
+  <item id="save_link_captcha_info" translation="Enter the text as seen in image on the left. Click on image to regenerate it." />
+  <item id="save_link_name_invalid_length" translation="The length of a composition name must be at least 4 and may not exceed 20" />
+  <item id="save_link_name_invalid_chars" translation="The composition name contains characters that are not allowed." />
+  <item id="save_link_name_not_unique" translation="A sound composition with that name already exists." />
+  <item id="save_link_signed_in_info" translation="Registering allows you to update your compositions after creating them" />
+  <item id="save_link_anonymous_info" translation="If you won't decide to change anything and don't want to register, create anonymous composition" />
+  <item id="save_link_success" translation="Success!" />
+  <item id="save_not_possible_title" translation="Create your composition link" />
+  <item id="save_not_possible_text" translation="Someone has created this sound composition and saved it as &quot;{0}&quot;. If you want to create yours, launch the mixer from the home page - &lt;a href=&quot;{1}&quot;&gt;&lt;font color=&quot;#29ff50&quot;&gt;{1}&lt;/font&gt;&lt;/a&gt; and after choosing the right sounds click on &quot;Save as Link&quot;.&lt;br&gt;&lt;br&gt;If this is your composition then use different browser tab to sign in. After that click &quot;OK&quot; button bellow and then click on &quot;Save Changes&quot; button again." />
+  <item id="export_file_choose_length" translation="Choose the audio length" />
+  <item id="export_file_choose_length_info" translation="The longer the audio the longer it takes to encode..." />
+  <item id="export_file_please_wait" translation="Please wait..." />
+  <item id="export_file_progress_status_1" translation="Downloading OGG encode library" />
+  <item id="export_file_progress_status_2" translation="Generating audio data" />
+  <item id="export_file_progress_status_3" translation="Encoding audio to OGG format" />
+  <item id="export_file_process_finished" translation="Processing finished. You can save the file." />
+  <item id="export_file_wait_dialog" translation="After pressing the button, wait for Save Dialog to come up." />
+  <item id="export_file_save_file" translation="Save the File" />
+</translation>
